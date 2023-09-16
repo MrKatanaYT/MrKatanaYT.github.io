@@ -2,7 +2,7 @@ header {
   position: relative;
   height: 100vh;
   min-height: 850px;
-  background: url(/img/background);
+  background: url(/img/background.png);
 }
 header > div {
   display: flex;
